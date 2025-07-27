@@ -1,4 +1,4 @@
 # sample
-hi
+hi users
 <br>
 this is my first git repository
